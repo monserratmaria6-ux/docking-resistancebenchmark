@@ -1,0 +1,6 @@
+data/raw/
+structures/raw/
+*.pdbqt
+results/docking_runs/
+.ipynb_checkpoints/
+__pycache__/
