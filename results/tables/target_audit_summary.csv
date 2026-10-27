@@ -1,0 +1,6 @@
+gene,n_measurements_B,n_paired_points,n_compounds,n_documents,n_mutations,n_|delta|>=1,sd_delta
+EGFR,18123,1874,1090,168,10,794,1.23
+ABL1,4146,471,258,39,20,93,1.05
+ALK,3781,777,479,60,11,93,0.59
+KIT,3251,139,76,14,16,96,1.66
+BRAF,8974,347,300,64,1,50,0.64
